@@ -1,0 +1,53 @@
+IS421: Knowledge Management & IR (10 marks)
+CIS Program, King Faisal University
+Course Project: Text Mining with RapidMiner (Due Date: 8th Week). 
+Objectives of this course project is to give the students hands-on experience on:
+•	Text Retrieval: Learn how to index collection of documents to effectively retrieve document matching with user query 
+•	Text Analysis/Mining: How to extract knowledge from plain text by identifying interesting patterns across large set of text collection 
+•	Text Organization: Classify a text object into one or several of the predefined categories where the categories can vary depending on applications. (organize knowledge to facilitate Text Access and Text Analysis
+General Steps:
+•	Make Teams: Work on project in group of max three students (group work is strongly encouraged but not mandatory).  
+•	Choose Topic: You are required to pick an interesting topic where extracting knowledge from plain text could be useful. While choosing, a topic ask yourself, what problem you are going to solve and search for related articles on topic selected. Please consult appendix at the end of this document on “where and how to find useful research paper”. You can seek help of instructor to get approval of the topic and related papers you identified. 
+•	Work on Project: Collect the required dataset and use any existing tool for indexing, searching and extracting from text collection, classifying and clustering documents. Evaluate results to identify reliability of proposed model. 
+•	Write Project Report: Prepare a project report and submit before presentation. Follow guidelines from section 3 to write a project report
+•	Present Project:  Follow guidelines from section 4 to prepare presentation 
+Write a Project Report
+You are required to write a research report like conference paper in two column IEEE Format (IEEE format is attached). Quality requirement is the same as research papers, i.e., in formal written English and rigorous paper format. The report should contain following elements:
+Title and Author: Select an informatics title of your selected topic e.g. “Automatic text categorization using RapidMiner”, “Mining and summarizing customer reviews”. Please also mention your Author detail, including name, affiliation and email address.
+Abstract: a brief summary of what you did and what you found. 
+Introduction:  Outlines context, background and purpose Briefly state the background/motivation, what has been done, what is missing, how do you plan to solve it, how do you plan to prove the usefulness of your method, and summarize your contribution(s).
+Related Work: In this section provide a summary of related work in your own words. This survey will help you to identify whether the problem you would like to tackle has already been solved. You are encouraging to leverage existing work using RapidMiner text processing workflow as it allows you to minimize amount of work you have to do. Follow guidelines from Appendix on “how to find useful papers”
+Methodology: What technique/algorithm/ will you use/ develop to solve the problem. How data will be collected? This section should have detailed description of entire work flow of text mining process with screen capture from RapidMiner. 
+For more detail please follow sample paper available with this document “Supervised Learning Methods for Sentiment Classification with RapidMiner” 
+Experiments and Results:  how will you evaluate your work? Briefly explain what you did, and what the results were. If you used multiple algorithms compare result to investigate which one has better accuracy. 
+Conclusions: Summary of analysis, your findings, mention limitation of your research and future research idea.
+References: follow IEEE template for references
+
+Tips on report Writing: 
+•	Advice on Research and Writing: http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mleone/web/how-to.html
+•	What is Research in Computer Science: http://www.dcs.gla.ac.uk/~johnson/teaching/research_skills/research.html
+•	Basic Research Skills in Computing Science
+http://www.dcs.gla.ac.uk/~johnson/teaching/research_skills/basics.html
+Present Project
+You are required to prepare 15 minutes’ presentation.  Try to show screen shots and/or plots of your experimental results and demonstrate your project. 
+Tips on Presentation: 
+watch TedTalk http://www.ted.com/talks/roger_antonsen_math_is_the_hidden_secret_to_understanding_the_world#t-85451
+Items to Submit: 
+You are required to submit following items due on last week of term before presentation:
+•	Project Report Hard copy
+•	CD containing soft copy of project report, dataset and RapidMiner Process work flow
+Project Grading
+Your project will be graded based on the following required components:
+Project report (75%): Detailed written report of your project strictly following required element and template
+Presentation: (15% ):  presentation about what you have done for this course project including slides presentation and system demo.
+Questioning answering (10 %): Each member will be graded individually based upon response to question.
+It is preferred to publish outcome of project as paper in conference/journal. Bonus points (5) will be given to the groups who meets this requirement.   
+APPENDIX: Where and how to find useful research papers
+1. Try out Google Scholar at https://scholar.google.com/ using appropriate keywords.
+2. Search the Saudi Digital Library, https://www.kfu.edu.sa/en/Deans/Library/pages/sdl.aspx     
+(Use your KFU user ID/Password and use Firefox Browser for SDL)
+3. Search SpringerLink, http://link.springer.com/ (if you use KFU network, you can download most books and papers from here FREE. SpringerLink includes Conference proceedings as well).
+4. Try ACM Digital Library, http://dl.acm.org/ (You can search and download many relevant papers in the ACM digital library from KFU network using your KFU account)
+4. Also try CiteSeerX,  http://citeseerx.ist.psu.edu/ and Arxiv, http://arxiv.org/ 
+SOME HELPFUL TIPS:
+When doing a project or assignment that requires reading, remember, one paper will lead you to many relevant papers if you check the Reference section wisely. First try to skim through (quickly browse) as many papers as you can and then come back to read some of those papers more carefully.
